@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkshopClass3</string>
+    <string-array name="country">
+        <item>Nepal</item>
+        <item>USA</item>
+        <item>Lol</item>
+        <item>Hawa</item>
+        <item>Haha</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Information System</string>
+    <string-array name="address">
+        <item>Kathmandu</item>
+        <item>Pokhara</item>
+        <item>Biratnagar</item>
+    </string-array>
+</resources>
